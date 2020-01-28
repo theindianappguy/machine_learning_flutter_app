@@ -1,16 +1,18 @@
-# machine_learning_flutter_app
 
-A new Flutter application.
+![FLutter Tensor Flow Tutorial](https://user-images.githubusercontent.com/55942632/73233781-926d3680-41ad-11ea-87ff-fdf7301f2cd2.png)
 
-## Getting Started
+# Ml With Flutter
 
-This project is a starting point for a Flutter application.
+Learn how to build a tensorflow model on Techable Machine and then run it on flutter app.
+* [Youtube Tutorial](https://www.youtube.com/watch?v=-5kUv47xKy0&t=129s)
 
-A few resources to get you started if this is your first Flutter project:
+## Show Support
+* [Recommend Me On LinkedIn](https://www.linkedin.com/in/lamsanskar/) - I will realy Appriciate this
+* Don't forget to star ⭐ the repo 😉, it's FREE.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Requirements
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Android Studio/Visual Studio Code
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Join Us
+* [Join Our Facebook Group](https://www.facebook.com/groups/519517995532897/) - I share a lot of value in it
