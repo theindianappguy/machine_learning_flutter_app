@@ -16,3 +16,6 @@ Learn how to build a tensorflow model on Techable Machine and then run it on flu
 
 ## Join Us
 * [Join Our Facebook Group](https://www.facebook.com/groups/519517995532897/) - I share a lot of value in it
+
+## Credits
+* [Blog](https://medium.com/analytics-vidhya/machine-learning-for-flutter-developers-db15c23e3a60)
