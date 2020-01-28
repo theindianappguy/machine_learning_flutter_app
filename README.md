@@ -4,7 +4,7 @@
 # Ml With Flutter
 
 Learn how to build a tensorflow model on Techable Machine and then run it on flutter app.
-* [Youtube Tutorial](https://www.youtube.com/watch?v=-5kUv47xKy0&t=129s)
+* [Youtube Tutorial](https://www.youtube.com/watch?v=-5kUv47xKy0)
 
 ## Show Support
 * [Recommend Me On LinkedIn](https://www.linkedin.com/in/lamsanskar/) - I will realy Appriciate this
